@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hi there! 🤩
 
+I'm Débora, a software developer (she/her) from Brazil 🇧🇷, currently based in London 🇬🇧. I currently work at Theodo UK, building web and mobile apps :)
+My main stack is currently React, React Native, Node (including NestJS) and AWS Serverless.
+
+Software testing has been one of my favourite tech topics for a while! I'm looking forward to learning more about the current tools and libraries (Cypress, Detox, react-testing-library, Jest...) and hopefully contributing to them.
+
+Besides tech stuff, I really enjoy bouldering, photography, drawing and singing.
 <!--
 **deboraornellas/deboraornellas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
