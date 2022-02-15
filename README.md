@@ -1,9 +1,13 @@
 ### Hello there! 🤩
 
-I'm Débora, a software developer (she/her) from Brazil 🇧🇷 , currently based in London 🇬🇧 . 
-My main stack is currently React, React Native, Node (including NestJS) and AWS Serverless.
+I'm Débora, a software developer (she/her) from Brazil 🇧🇷, currently based in London 🇬🇧. Currently working for the LEGO Group, which is really exciting!
+My main stack is currently React, Node, GQL and AWS Serverless.
 
-Software testing has been one of my favourite tech topics for a while! I'm looking forward to learning more about the current tools and libraries (Cypress, Detox, react-testing-library, Jest...) and hopefully contributing to them.
+Main focus for me in 2022 is Javascript: understanding the good and bad parts and applying this knowledge on the products I'm working on.
+
+Software testing has been one of my favourite tech topics for a while! I'm looking forward to learning more about the current tools and libraries (Cypress, react-testing-library, Jest...) and hopefully contributing to them.
+
+Oh, I'm also a documentation evangelist. Well documented codebases make me rejoice.
 
 Besides tech stuff, I really enjoy bouldering, photography, drawing and singing.
 <!--
