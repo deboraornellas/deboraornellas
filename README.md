@@ -1,13 +1,13 @@
 ### Hello there! 🤩
 
 I'm Débora, a software developer (she/her) from Brazil 🇧🇷, currently based in London 🇬🇧. Currently working for the LEGO Group, which is really exciting!
-My main stack is currently React, Node, GQL and AWS Serverless.
+My main stack is currently React, CSS Modules, Node, GQL and AWS Serverless.
 
-Main focus for me in 2022 is Javascript: understanding the good and bad parts and applying this knowledge on the products I'm working on.
+We're currently building Skrøll, a new design system for LEGO.com build on design tokens. It's not currently open source :/ but in the future it could be!
 
-Software testing has been one of my favourite tech topics for a while! I'm looking forward to learning more about the current tools and libraries (Cypress, react-testing-library, Jest...) and hopefully contributing to them.
+In 2023 I'm focusing in two different areas. One is improving my FE expertise (HTML, CSS, JS). The second is getting a better understanding of cloud engineering.
 
-Oh, I'm also a documentation evangelist. Well documented codebases make me rejoice.
+Oh, I'm also a documentation evangelist. I love Storybook! Well documented codebases make me rejoice.
 
 Besides tech stuff, I really enjoy bouldering, photography, drawing and singing.
 <!--
