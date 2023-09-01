@@ -1,15 +1,15 @@
 ### Hello there! 🤩
 
-I'm Débora, a software developer (she/her) from Brazil 🇧🇷, currently based in London 🇬🇧. Currently working for the LEGO Group, which is really exciting!
-My main stack is currently React, CSS Modules, Node, GQL and AWS Serverless.
+I'm Débora, a software engineer (she/her) from Brazil 🇧🇷, currently based in London 🇬🇧. 
+I've been working for the LEGO Group since Feb 22. My main stack is React/NextJS, CSS Modules, Apollo GQL, Node and AWS Serverless.
 
-We're currently building Skrøll, a new design system for LEGO.com build on design tokens. It's not currently open source :/ but in the future it could be!
+I'm a maintainer on Skrøll, a shopper design system for LEGO.com build on design tokens. It's not currently open source :/ but in the future it could be!
 
 In 2023 I'm focusing in two different areas. One is improving my FE expertise (HTML, CSS, JS). The second is getting a better understanding of cloud engineering.
 
 Oh, I'm also a documentation evangelist. I love Storybook! Well documented codebases make me rejoice.
 
-Besides tech stuff, I really enjoy bouldering, photography, drawing and singing.
+Besides tech stuff, I really enjoy photography, drawing, singing and gymnastics (although my tumbling skills are very basic).
 <!--
 **deboraornellas/deboraornellas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
