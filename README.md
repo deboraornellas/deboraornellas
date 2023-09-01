@@ -3,9 +3,9 @@
 I'm Débora, a software engineer (she/her) from Brazil 🇧🇷, currently based in London 🇬🇧. 
 I've been working for the LEGO Group since Feb 22. My main stack is React/NextJS, CSS Modules, Apollo GQL, Node and AWS Serverless.
 
-I'm a maintainer on Skrøll, a shopper design system for LEGO.com build on design tokens. It's not currently open source :/ but in the future it could be!
+I'm a maintainer on Skrøll, a shopper design system for LEGO.com built on design tokens. It's not currently open source :/ but in the future it could be!
 
-In 2023 I'm focusing in two different areas. One is improving my FE expertise (HTML, CSS, JS). The second is getting a better understanding of cloud engineering.
+My current focus is on deepening my knowledge of Web Accessibility, Front-end performance and CSS styling (animations, transitions, understanding new features).
 
 Oh, I'm also a documentation evangelist. I love Storybook! Well documented codebases make me rejoice.
 
