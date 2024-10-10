@@ -8,6 +8,9 @@ My current focus is on deepening my knowledge of Web Accessibility, Front-end pe
 Oh, I'm also a documentation evangelist. I love Storybook! Well documented codebases make me rejoice.
 
 Besides tech stuff, I really enjoy photography, drawing, singing and gymnastics (but my tumbling skills are very basic!).
+
+[![Débora's GitHub stats](https://github-readme-stats.vercel.app/api?username=deboraornellas)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **deboraornellas/deboraornellas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
