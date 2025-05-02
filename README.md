@@ -2,7 +2,7 @@
 
 Good to see you here. I'm a frontend/web software engineer (she/her) from northeastern Brazil, currently based in London, United Kingdom. 
 
-I've recently built and maintained websites for Monzo Bank and the LEGO Group, but as of mid-2025, **I'm on a sabbatical**! 🎨✏️🤸🏽‍♀️🪏 
+I've recently built and maintained websites for Monzo Bank and the LEGO Group, but as of mid-2025, **I'm on a sabbatical**! 🎨✏️🤸🏽‍♀️
 
 My main stack is Javascript/Typescript, HTML, CSS, React/NextJS, Node JS, Cypress/Playwright/Testing Library. Over the years, I've had some basic experience with Go, Java/Groovy, AWS and Terraform.
 
@@ -12,7 +12,11 @@ Current learning focus is on deepening my knowledge of web standards, how browse
 
 Outside of work I really enjoy photography, drawing, singing and gymnastics (important to note that my tumbling skills are very basic!). I have also recently picked up on ice skating, it's being fun.
 
+https://utaw.tech/join
 
+.
+.
+.
 
 [![Débora's GitHub stats](https://github-readme-stats.vercel.app/api?username=deboraornellas)](https://github.com/anuraghazra/github-readme-stats)
 
