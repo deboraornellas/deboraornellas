@@ -10,7 +10,7 @@ While I can do both [front- and back-of-the-front-end](https://bradfrost.com/blo
 
 Current learning focus is on deepening my knowledge of web standards, how browser engines work, web performance and overall system design.
 
-Outside of work I really enjoy photography, drawing, singing and gymnastics (important to note that my tumbling skills are very basic!). I have also recently picked up on ice skating, it's being fun.
+Outside of work I really enjoy photography, drawing, singing and gymnastics (important to note that my tumbling skills are very basic!). I have also recently picked up ice skating, it's being fun.
 
 https://utaw.tech/join
 
