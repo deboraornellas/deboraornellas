@@ -1,13 +1,18 @@
-### Hello there! 🤩
+### Hi there, I'm Débora! 🤩
 
-I'm Débora, a software engineer (she/her) from Brazil 🇧🇷, currently based in London 🇬🇧. 
-My main stack is React/NextJS, HTML, CSS, Apollo GQL, Node and AWS Serverless.
+Good to see you here. I'm a frontend/web software engineer (she/her) from northeastern Brazil, currently based in London, United Kingdom. 
 
-My current focus is on deepening my knowledge of Web Accessibility, Front-end performance and CSS styling (animations, transitions, understanding new features).
+I've recently built and maintained websites for Monzo Bank and the LEGO Group, but as of mid-2025, **I'm on a sabbatical**! 🎨✏️🤸🏽‍♀️🪏 
 
-Oh, I'm also a documentation evangelist. I love Storybook! Well documented codebases make me rejoice.
+My main stack is Javascript/Typescript, HTML, CSS, React/NextJS, Node JS, Cypress/Playwright/Testing Library. Over the years, I've had some basic experience with Go, Java/Groovy, AWS and Terraform.
 
-Besides tech stuff, I really enjoy photography, drawing, singing and gymnastics (but my tumbling skills are very basic!).
+While I can do both [front- and back-of-the-front-end](https://bradfrost.com/blog/post/front-of-the-front-end-and-back-of-the-front-end-web-development/), my favourite technical topics are **as close to the user as possible**: design systems (I love design tokens), web accessibility, keeping up with CSS improvements... ✨ I'm also a documentation evangelist. 
+
+Current learning focus is on deepening my knowledge of web standards, how browser engines work, web performance and overall system design.
+
+Outside of work I really enjoy photography, drawing, singing and gymnastics (important to note that my tumbling skills are very basic!). I have also recently picked up on ice skating, it's being fun.
+
+
 
 [![Débora's GitHub stats](https://github-readme-stats.vercel.app/api?username=deboraornellas)](https://github.com/anuraghazra/github-readme-stats)
 
