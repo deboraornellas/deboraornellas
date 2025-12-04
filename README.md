@@ -2,7 +2,7 @@
 
 Good to see you here. I'm a frontend/web software engineer (she/her) from northeastern Brazil, currently based in London, United Kingdom. 
 
-I've recently built and maintained websites for Monzo Bank and the LEGO Group, but as of mid-2025, **I'm on a sabbatical**! 🎨✏️🤸🏽‍♀️
+I've built and maintained websites for Monzo Bank, the LEGO Group and Theodo UK. I spent most of 2025 on a sabbatical and cannot recommend it enough, if it's a possibility for you 🎨✏️🤸🏽‍♀️
 
 My main stack is Javascript/Typescript, HTML, CSS, React/NextJS, Node JS, Cypress/Playwright/Testing Library. Over the years, I've had some basic experience with Go, Java/Groovy, AWS and Terraform.
 
